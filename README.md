@@ -24,13 +24,6 @@
 
 ---
 
-## 🎓 Education
-
-- **Master’s in Computer Science & Mathematics for Data Science** — ENSA Khouribga (2024 – Present)  
-- **Bachelor in Mathematical Sciences & Computer Science (Databases option)** — FS Ain Chock (2021 – 2024)
-
----
-
 ## 🏆 Achievements
 
 - **1st Place – DevJam Hackathon (2025)**  
