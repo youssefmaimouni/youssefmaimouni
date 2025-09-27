@@ -67,8 +67,8 @@
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/youssef-maimouni-8ba17a252/)  
-- [GitHub](https://github.com/YOUR_USERNAME)  
-- [Email](mailto:YOUR_EMAIL)
+- [GitHub](https://github.com/youssefmaimouni)  
+- [Email](mailto:youssefmaimouni03@gmail.com)
 
 ---
 
