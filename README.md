@@ -4,7 +4,7 @@
 💡 Passionate about **Artificial Intelligence, Machine Learning, NLP, and Computer Vision**.  
 🌍 I love building **AI-powered systems** that connect data, algorithms, and real-world impact.  
 
----
+
 
 ## 🔬 Experience  
 
@@ -23,7 +23,7 @@
   - API docs: Swagger  
   👉 Improved efficiency, reducing stock update errors by **30%**.  
 
----
+
 
 ## 🏆 Achievements  
 
@@ -36,7 +36,7 @@
 - 🥉 **3rd Place – Hackathon (2024)**  
   *Open Source Days 14.0, ENSA Khouribga* — AI + Open Source solution for real-world problems.  
 
----
+
 
 ## 📂 Projects  
 
@@ -52,7 +52,7 @@
 - **🎓 Exam Attendance System**  
   Full-stack web + mobile app with **QR Code attendance** (React, React Native, Laravel).  
 
----
+
 
 ## 🛠 Tech Stack  
 
@@ -63,27 +63,24 @@
 **Cloud & DevOps:** Azure | AWS | Docker | Git/GitHub | Swagger  
 **Data Tools:** Pandas | NumPy | Matplotlib | Power BI  
 
----
+
 
 ## 🤝 Volunteering  
 
 - **Project Manager @ JLM ENSA Khouribga (2024 – Present)**  
 - **Director of Events & Logistics @ ResearchX Club (2025 – Present)**  
 
----
+
 
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefmaimouni&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmaimouni&layout=compact&theme=tokyonight)  
 
----
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maimouni-youssef)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/youssefmaimouni)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssefmaimouni03@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maimouni-youssef)  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/youssefmaimouni)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssefmaimouni03@gmail.com)  
 
 ---
 
