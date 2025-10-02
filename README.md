@@ -1,75 +1,90 @@
-# 👋 Hi, I'm Youssef Maimouni
+# 👋 Hi, I'm Youssef Maimouni  
 
-🎓 Master’s student in **Computer Science and Mathematics for Data Science** at ENSA Khouribga, passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Web Development**.  
-💡 I enjoy building intelligent systems that combine **data, algorithms, and real-world applications**.
+🎓 Master’s student in **Computer Science & Mathematics for Data Science** at ENSA Khouribga.  
+💡 Passionate about **Artificial Intelligence, Machine Learning, NLP, and Computer Vision**.  
+🌍 I love building **AI-powered systems** that connect data, algorithms, and real-world impact.  
 
 ---
 
-## 🔬 Experience
+## 🔬 Experience  
 
 - **Data Science Intern @ SCInc. (2025)**  
-  Developed an **Intelligent Shelf Product Detection and Classification** system integrating:
-  - YOLOv8 for shelf detection  
+  🚀 Developed an **Intelligent Shelf Product Detection & Classification** system:  
+  - YOLOv8 for detection  
   - Detectron2 (Mask R-CNN) for segmentation  
   - ResNet-50 for classification  
-  - ORB + BFMatcher for similarity matching  
-  👉 Successfully automated large-scale retail shelf analysis.
+  - ORB + BFMatcher for similarity  
+  👉 Automated retail shelf analysis, reducing manual verification by **40%**.  
 
 - **Web Developer Intern @ Webagency-Maroc (2024)**  
-  Built a **stock management system** with:
+  🛠 Built a **Stock Management System**:  
   - Backend: Laravel (REST APIs)  
   - Frontend: React.js + TailwindCSS  
   - API docs: Swagger  
-  👉 Improved efficiency and reduced manual errors.
+  👉 Improved efficiency, reducing stock update errors by **30%**.  
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements  
 
-- **1st Place – DevJam Hackathon (2025)**  
-  *Smart Water Leak Detection & Prevention System* — IoT + AI solution using a single sensor and ML to detect anomalies in real time.
+- 🥇 **1st Place – DevJam Hackathon (2025)**:  
+  *Smart Water Leak Detection & Prevention System* — IoT + AI solution using a single flow sensor + ML.  
 
----
+- 🥈 **2nd Place – Problem Solving Competition (2024)**  
+  *Open Source Days 14.0, ENSA Khouribga* — Algorithmic optimization challenges.  
 
-## 📂 Projects
-
-- **Enhancing Cloud Security with AI (FYP)**  
-  Compared models (CNN-LSTM, RF, MLP, BiLSTM, SAE) on UNSW-NB15, NSL-KDD, CICIDS2017; deployed on Azure → faster detection, fewer false positives.  
-
-- **Clustering Arabic Articles (NLP)**  
-  Processed **52k+ articles** → hybrid TF-IDF + BERT vectorization, K-Means clustering, similarity analysis, mT5 summarization, and Stable Diffusion illustrations.  
-
-- **Car & House Price Prediction Model**  
-  End-to-end ML pipeline (TensorFlow/Keras + Flask API + React frontend) for price prediction with dashboards and interactive analytics.  
-
-- **Exam Attendance Management System**  
-  Full-stack web + mobile app with **QR code attendance** (React, React Native, Laravel) used for secure exam monitoring.  
+- 🥉 **3rd Place – Hackathon (2024)**  
+  *Open Source Days 14.0, ENSA Khouribga* — AI + Open Source solution for real-world problems.  
 
 ---
 
-## 🛠️ Tech Stack
+## 📂 Projects  
 
-- **Languages:** Python, JavaScript, PHP, SQL (Oracle, MySQL)  
-- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, Detectron2, YOLOv8, ResNet  
-- **Web:** React.js, React Native, Laravel, Flask, Django, Tailwind CSS  
-- **Data:** Pandas, NumPy, Matplotlib, NLP (BERT, TF-IDF, mT5), Clustering  
-- **Cloud & DevOps:** Azure, AWS/GCP, Docker, Git/GitHub, Swagger  
+- **🔒 Enhancing Cloud Security with AI**  
+  Compared CNN-LSTM, RF, MLP, BiLSTM, SAE on UNSW-NB15, NSL-KDD, CICIDS2017 → Deployed on Azure.  
 
----
+- **📰 Clustering Arabic Articles (NLP)**  
+  Processed **52k+ articles** → Hybrid TF-IDF + BERT, K-Means clustering, summarization with mT5, and visualizations.  
 
-## 🤝 Volunteering
+- **🚗🏡 Car & House Price Prediction**  
+  End-to-end ML pipeline (**TensorFlow/Keras + Flask API + React**) with dashboards & analytics.  
 
-- **Project Manager @ JLM ENSA Khouribga** (2024 – Present)  
-- **Director of Event Management & Logistics @ ResearchX Club** (2025 – Present)  
-
----
-
-## 📫 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/youssef-maimouni-8ba17a252/)  
-- [GitHub](https://github.com/youssefmaimouni)  
-- [Email](mailto:youssefmaimouni03@gmail.com)
+- **🎓 Exam Attendance System**  
+  Full-stack web + mobile app with **QR Code attendance** (React, React Native, Laravel).  
 
 ---
 
-⭐️ *“I believe in using data and AI to create solutions that make a real impact.”*
+## 🛠 Tech Stack  
+
+**Languages:** Python | JavaScript | PHP | SQL (MySQL, Oracle)  
+**AI/ML:** TensorFlow | PyTorch | Scikit-learn | YOLOv8 | ResNet | Detectron2  
+**NLP:** BERT | TF-IDF | mT5 | Text Mining | Clustering  
+**Web Dev:** React.js | React Native | Laravel | Flask | Django | Tailwind CSS  
+**Cloud & DevOps:** Azure | AWS | Docker | Git/GitHub | Swagger  
+**Data Tools:** Pandas | NumPy | Matplotlib | Power BI  
+
+---
+
+## 🤝 Volunteering  
+
+- **Project Manager @ JLM ENSA Khouribga (2024 – Present)**  
+- **Director of Events & Logistics @ ResearchX Club (2025 – Present)**  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefmaimouni&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmaimouni&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maimouni-youssef)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/youssefmaimouni)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssefmaimouni03@gmail.com)  
+
+---
+
+⭐️ *“Passionate about turning data into actionable insights and building impactful AI solutions.”*  
